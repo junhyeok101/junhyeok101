@@ -1,3 +1,10 @@
+## 🔗 Portfolio & CV
+
+[![Academic Website](https://img.shields.io/badge/Academic%20Website-Open-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://junhyeok101.github.io/)
+[![CV](https://img.shields.io/badge/CV-PDF-purple?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://raw.githubusercontent.com/junhyeok101/junhyeok101/main/cv.pdf)
+
+---
+
 🎯 **Computer Science @ Yonsei University**  
 💻 관심분야: AI, Computer Vision, LLM, backend  
 
