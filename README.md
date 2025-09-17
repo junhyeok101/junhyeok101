@@ -38,6 +38,9 @@
 ---
 
 ## 📊 GitHub Stats
+
+![GitHub Streak](https://streak-stats.demolab.com?user=junhyeok101&theme=radical&hide_border=true)
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=junhyeok101&theme=radical&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
 
 
