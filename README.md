@@ -43,8 +43,8 @@
 ---
 
 ## 🧠 BOJ / Solved.ac Stats
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=여기BOJ아이디)](https://solved.ac/여기BOJ아이디)
-![mazandi profile](http://mazandi.herokuapp.com/api?handle=여기BOJ아이디&theme=dark)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=aea898)](https://solved.ac/aea898)
+![mazandi profile](http://mazandi.herokuapp.com/api?handle=aea898&theme=dark)
 
 ---
 
