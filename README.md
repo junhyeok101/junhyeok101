@@ -39,9 +39,12 @@
 
 ## 📊 GitHub Stats
 
-![GitHub Streak](https://streak-stats.demolab.com?user=junhyeok101&theme=radical&hide_border=true)
+![](https://raw.githubusercontent.com/junhyeok101/junhyeok101/main/profile-summary-card-output/default/0-profile-details.svg)
+![](https://raw.githubusercontent.com/junhyeok101/junhyeok101/main/profile-summary-card-output/default/1-repos-per-language.svg)
+![](https://raw.githubusercontent.com/junhyeok101/junhyeok101/main/profile-summary-card-output/default/2-most-commit-language.svg)
+![](https://raw.githubusercontent.com/junhyeok101/junhyeok101/main/profile-summary-card-output/default/3-stats.svg)
+![](https://raw.githubusercontent.com/junhyeok101/junhyeok101/main/profile-summary-card-output/default/4-productive-time.svg)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=junhyeok101&theme=radical&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 ---
