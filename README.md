@@ -18,31 +18,34 @@
 
 ---
 
-🔍 **Interests**  
-![AI](https://img.shields.io/badge/AI-000000?style=flat&logo=ai&logoColor=white)  
-![Computer Vision](https://img.shields.io/badge/Computer%20Vision-5C3EE8?style=flat&logo=opencv&logoColor=white)  
-![Backend](https://img.shields.io/badge/Backend-2496ED?style=flat&logo=serverfault&logoColor=white)
-
-
----
 
 ## ✏️ Education
-- **Yonsei University** — B.A. in Interior Architecture (Double Major in Computer Science), Sophomore  
+
+🎓 **Yonsei University**  
+- B.S. in Interior Architecture (Graduated)  
+- B.S. in Computer Science, Junior  
   GPA: 3.91 / 4.30 (Overall), 4.09 / 4.30 (Major)
+
 
 ---
 
 ## 💼 Experience
 - **Yonsei DX Coding Camp – Data Science Course** (Jun 2024 – Aug 2024)  
   Practical data science, preprocessing, and analysis.
-- **AI & Software Competency Enhancement Program (Military)** (Aug 2023 – Oct 2023)  
+- **AI & Software Competency Enhancement Program (Military)** Aug 2023 – Oct 2023)  
   Completed basic Python course.
-
+- **Qwen SKYST Datathon** (Jul 2025 – Aug 2025)  
+  Fine-tuned Qwen LLMs on financial datasets for the AI Hedge Fund task.  
+  Implemented training pipeline with Huggingface & Alibaba Cloud GPU, performed hyperparameter tuning and evaluation.  
+  Ranked 10th place among 22 teams.
 ---
 
 ## 🎖️ Awards
 - **Certificate of Achievement – US Army** (x2)  
-  Recognized for key roles in ROK-US training & friendship activities.
+  Recognized for key roles in ROK-US training & friendship activities.+
+- **Special Award – NYPC (Nexon Youth Programming Challenge)** (Sep 2024)  
+  Ranked within the Top 100 among 600+ teams. Recognized for AI-based board game problem solving.
+
 
 ---
 
@@ -84,6 +87,15 @@
 ![mazandi profile](http://mazandi.herokuapp.com/api?handle=aea898&theme=dark)
 
 ---
+
+## 🔍 **Interests**  
+![AI](https://img.shields.io/badge/AI-000000?style=flat&logo=ai&logoColor=white)  
+![Computer Vision](https://img.shields.io/badge/Computer%20Vision-5C3EE8?style=flat&logo=opencv&logoColor=white)  
+![Backend](https://img.shields.io/badge/Backend-2496ED?style=flat&logo=serverfault&logoColor=white)
+
+
+---
+
 
 ## 📫 연락
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:youremail@gmail.com)](mailto:youremail@gmail.com)
