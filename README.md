@@ -10,6 +10,11 @@
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+
 
 ---
 
@@ -40,21 +45,21 @@
 
 ## 🏛 Extracurricular
 
+**Interior Architecture Student Council**  
+- *Mar 2021 – Dec 2021*  
+- Event planning & management.
+  
 **YCC (Yonsei Computer Club)**  
 - *Sep 2024 – Present*  
 - CS study groups & projects.
 
-**Interior Architecture Student Council**  
-- *Mar 2021 – Dec 2021*  
-- Event planning & management.
-
 **YAI (Yonsei Artificial Intelligence)**  
 - *Jan 2025 – Present*  
-Executive member, paper readings, AI projects.
+- Executive member, paper readings, AI projects.
 
 **Mindforge Internship**  
 - *Sep 2025 – Dec 2025*  
-Computer Vision projects & paper seminars.
+- Computer Vision projects & paper seminars.
 
 
 ---
@@ -74,13 +79,6 @@ Computer Vision projects & paper seminars.
 ## 🧠 BOJ / Solved.ac Stats
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=aea898)](https://solved.ac/aea898)
 ![mazandi profile](http://mazandi.herokuapp.com/api?handle=aea898&theme=dark)
-
----
-
-## 🛠 Tech Stack
-- Python, C, C++
-- PyTorch, OpenCV
-- Linux, Git
 
 ---
 
