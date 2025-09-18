@@ -38,10 +38,24 @@
 
 ---
 
-## 🏛️ Extracurricular
-- **YCC (Yonsei Computer Club)** (Sep 2024 – Present) — CS study groups & projects.  
-- **Interior Architecture Student Council** (Mar 2021 – Dec 2021) — Event planning & management.  
-- **YAI (Yonsei Artificial Intelligence)** (Jan 2025 – Present) — Executive member, paper readings, AI projects.
+## 🏛 Extracurricular
+
+🎓 **YCC (Yonsei Computer Club)**  
+*Sep 2024 – Present*  
+CS study groups & projects.
+
+🎭 **Interior Architecture Student Council**  
+*Mar 2021 – Dec 2021*  
+Event planning & management.
+
+🤖 **YAI (Yonsei Artificial Intelligence)**  
+*Jan 2025 – Present*  
+Executive member, paper readings, AI projects.
+
+💼 **Mindforge Internship**  
+*Sep 2025 – Dec 2025*  
+Computer Vision projects & paper seminars.
+
 
 ---
 
