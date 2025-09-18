@@ -22,7 +22,7 @@
 ## ✏️ Education
 
 🎓 **Yonsei University**  
-- B.S. in Interior Architecture (Graduated)  
+- B.S. in Interior Architecture 
 - B.S. in Computer Science, Junior  
   GPA: 3.91 / 4.30 (Overall), 4.09 / 4.30 (Major)
 
