@@ -18,10 +18,6 @@
 
 ---
 
-## 🎯 Profile
-
-🎓 **Yonsei University – Computer Science**  
-
 🔍 **Interests**  
 ![AI](https://img.shields.io/badge/AI-000000?style=flat&logo=ai&logoColor=white)  
 ![Computer Vision](https://img.shields.io/badge/Computer%20Vision-5C3EE8?style=flat&logo=opencv&logoColor=white)  
