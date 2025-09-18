@@ -77,7 +77,8 @@
 
 ## 📊 GitHub Stats
 
-![Junhyeok's GitHub stats](https://github-readme-stats.vercel.app/api?username=junhyeok101&show_icons=true&theme=radical)
+![Junhyeok's GitHub stats](https://github-readme-stats.vercel.app/api?username=junhyeok101&show_icons=true&theme=radical&cache_seconds=604800)
+
 
 
 
