@@ -77,11 +77,7 @@
 
 ## 📊 GitHub Stats
 
-![](https://raw.githubusercontent.com/junhyeok101/junhyeok101/main/profile-summary-card-output/default/0-profile-details.svg)
-![](https://raw.githubusercontent.com/junhyeok101/junhyeok101/main/profile-summary-card-output/default/1-repos-per-language.svg)
-![](https://raw.githubusercontent.com/junhyeok101/junhyeok101/main/profile-summary-card-output/default/2-most-commit-language.svg)
-![](https://raw.githubusercontent.com/junhyeok101/junhyeok101/main/profile-summary-card-output/default/3-stats.svg)
-![](https://raw.githubusercontent.com/junhyeok101/junhyeok101/main/profile-summary-card-output/default/4-productive-time.svg)
+![Junhyeok's GitHub stats](https://github-readme-stats.vercel.app/api?username=junhyeok101&show_icons=true&theme=radical)
 
 
 
