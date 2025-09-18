@@ -73,11 +73,6 @@
 - *Jan 2025 – Present*  
 - Executive member, paper readings, AI projects.
 
-**Mindforge Internship**  
-- *Sep 2025 – Dec 2025*  
-- Computer Vision projects & paper seminars.
-
-
 ---
 
 ## 📊 GitHub Stats
