@@ -30,20 +30,30 @@
 ---
 
 ## 💼 Experience
-- **Yonsei DX Coding Camp – Data Science Course** (Jun 2024 – Aug 2024)  
-  Practical data science, preprocessing, and analysis.
-- **AI & Software Competency Enhancement Program (Military)** Aug 2023 – Oct 2023)  
-  Completed basic Python course.
-- **Qwen SKYST Datathon** (Jul 2025 – Aug 2025)  
-  Fine-tuned Qwen LLMs on financial datasets for the AI Hedge Fund task.  
-  Implemented training pipeline with Huggingface & Alibaba Cloud GPU, performed hyperparameter tuning and evaluation.  
-  Ranked 10th place among 22 teams.
+
+**Yonsei DX Coding Camp – Data Science Course**  
+- *Jun 2024 – Aug 2024*  
+- Practical data science, preprocessing, and analysis.
+
+**AI & Software Competency Enhancement Program (Military)**  
+- *Aug 2023 – Oct 2023*  
+- Completed basic Python course.
+
+**Qwen SKYST Datathon**  
+- *Jul 2025 – Aug 2025*  
+- Fine-tuned Qwen LLMs on financial datasets for the AI Hedge Fund task.  
+- Implemented training pipeline with Huggingface & Alibaba Cloud GPU, performed hyperparameter tuning and evaluation.  
+- Ranked 10th place among 22 teams.
+
+**Mindforge Internship**  
+- *Sep 2025 – Dec 2025*  
+- Computer Vision projects & paper seminars.
 ---
 
 ## 🎖️ Awards
 - **Certificate of Achievement – US Army** (x2)  
   Recognized for key roles in ROK-US training & friendship activities.+
-- **Special Award – NYPC (Nexon Youth Programming Challenge)** (Sep 2024)  
+- **Special Award – NYPC (Nexon Youth Programming Challenge)** (Aug 2025)  
   Ranked within the Top 100 among 600+ teams. Recognized for AI-based board game problem solving.
 
 
