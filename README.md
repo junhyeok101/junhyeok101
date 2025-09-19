@@ -39,7 +39,7 @@
 - *Jun 2024 – Aug 2024*  
 - Practical data science, preprocessing, and analysis.
 
-**Qwen SKYST Datathon**  
+**Qwen SKYST hackathon**  
 - *Jul 2025 – Aug 2025*  
 - Fine-tuned Qwen LLMs on financial datasets for the AI Hedge Fund task.  
 - Implemented training pipeline with Huggingface & Alibaba Cloud GPU, performed hyperparameter tuning and evaluation.  
