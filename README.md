@@ -34,7 +34,7 @@
 **AI & Software Competency Enhancement Program (Military)**  
 - *Aug 2023 – Oct 2023*  
 - Completed basic Python course.
-- 
+
 **Yonsei DX Coding Camp – Data Science Course**  
 - *Jun 2024 – Aug 2024*  
 - Practical data science, preprocessing, and analysis.
