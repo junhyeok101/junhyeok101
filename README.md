@@ -1,7 +1,8 @@
 ## 🔗 Portfolio & CV
 
-[![Academic Website](https://img.shields.io/badge/Academic%20Website-ffffff?style=for-the-badge&logo=google-chrome&logoColor=blue&colorA=purple&colorB=blue)](https://junhyeok101.github.io/)
-[![CV](https://img.shields.io/badge/CV-ffffff?style=for-the-badge&logo=adobeacrobatreader&logoColor=purple&colorA=black&colorB=purple)](https://raw.githubusercontent.com/junhyeok101/junhyeok101/main/assets/cv.pdf)
+[![Website](https://img.shields.io/badge/-Website-333?style=for-the-badge&logo=google-chrome&logoColor=white)](https://junhyeok101.github.io/)
+[![CV](https://img.shields.io/badge/-CV-800080?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://raw.githubusercontent.com/junhyeok101/junhyeok101/main/assets/cv.pdf)
+
 
 
 
