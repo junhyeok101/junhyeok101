@@ -86,10 +86,10 @@
 ---
 
 ## 🧠 BOJ / Solved.ac Stats
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=aea898)](https://solved.ac/aea898)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=aea898)](https://solved.ac/aea898)sdf
 
 <!--
-![mazandi profile](http://mazandi.herokuapp.com/api?handle=aea898&theme=dark)
+![mazandi profile](http://mazandi.herokuapp.com/api?handle=aea898&theme=dark)sdf
 -->
 
 ---
