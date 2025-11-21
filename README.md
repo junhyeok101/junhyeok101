@@ -85,14 +85,6 @@
 
 ---
 
-## 🧠 BOJ / Solved.ac Stats
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=aea898)](https://solved.ac/)
-
-<!--
-![mazandi profile](http://mazandi.herokuapp.com/api?handle=aea898&theme=dark)
--->
-
----
 
 ## 🔍 **Interests**  
 ![AI](https://img.shields.io/badge/AI-000000?style=flat&logo=ai&logoColor=white)  
