@@ -49,6 +49,10 @@
 **Mindforge Internship**  
 - *Sep 2025 – Dec 2025*  
 - Computer Vision projects & paper seminars.
+
+**CIP Lab, Yonsei University**  
+- *Dec 2025 – Present*  
+- 3D, Photography and video using computer vision and machine learning.
 ---
 
 ## 🎖️ Awards
